@@ -1,0 +1,6 @@
+body {
+	/* Установите "margin: 0;" и "overflow: hidden;", 
+	чтобы использовать полную страницу */
+	margin: 0;
+	overflow: hidden;
+}
